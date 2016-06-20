@@ -70,7 +70,7 @@ public class MainActivity extends Activity {
     };
 
     private void showLocation (Location location) {
-        String currentPosition = "latitude is" + location.getLatitude()+"\n"+"longtitude is" + location.getLongitude();
+        String currentPosition = "latitude is: " + location.getLatitude()+"\n"+"longtitude is: " + location.getLongitude();
         positionTextView.setText(currentPosition);
     }
 }
