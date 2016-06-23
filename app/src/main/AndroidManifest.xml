@@ -29,7 +29,7 @@
         </activity>
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="develper lpxoGGtsRw7kUCgQF8jZ24FNrQwMWCcW"/>
+            android:value="lpxoGGtsRw7kUCgQF8jZ24FNrQwMWCcW"/>
     </application>
 
 </manifest>
